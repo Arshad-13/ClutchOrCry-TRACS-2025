@@ -58,7 +58,7 @@ Our solution employs distinct architectures tailored to the specific requirement
 If you find our work useful in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{khatib-et-al-2025-clutch,
+@inproceedings{clutch-et-al-2025,
     title = {"{C}lutch or {C}ry" {T}eam at {TRACS} @ {WASP} 2025: {A} {H}ybrid {S}tacking {E}nsemble for {A}strophysical {D}ocument {C}lassification},
     author = "Khatib, Arshad  and
       Prasad, Aayush  and
