@@ -9,7 +9,7 @@ This repository contains the official code and models for the **"Clutch or Cry"*
 Our system is a hybrid ensemble for classifying astrophysical documents, specifically designed to handle the severe class imbalance and long document contexts present in the dataset.
 
 For a detailed description of our methodology and findings, please refer to our paper:
-**["Clutch or Cry" Team at TRACS @ WASP 2025: A Hybrid Stacking Ensemble for Astrophysical Document Classification](https://link-to-your-published-paper.pdf)**
+**["Clutch or Cry" Team at TRACS @ WASP 2025: A Hybrid Stacking Ensemble for Astrophysical Document Classification](https://drive.google.com/file/d/1XF2nmSg34A0-X_xcRxb3luJMccrycz71/view?usp=drivesdk)**
 
 ## System Architecture
 
